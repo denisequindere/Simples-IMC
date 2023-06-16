@@ -1,0 +1,65 @@
+#frm1{
+    margin-left: 800px;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-top: 30px;
+    height:550px ;
+    width: 600px;
+    background-color: white;
+    border-radius: 15px;
+}
+body{
+    display: flex;
+    background-color: #38b6ff;
+}
+#imagem{
+    margin-left: 150px;
+    width: 300px;
+    height: 300px;
+    margin-right: -616px;
+    margin-top: 180px;
+
+}
+
+#botao1{
+    margin-top: 25px;
+    background-color: black;
+    width: 96%;
+    height: 35px;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#entrada1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+    height: 30px;
+}
+#entrada2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+    height: 30px;
+}
+#entrada3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+    height: 30px;
+}
+#entrada4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+    height: 30px;
+}
+
+#resposta{
+    color: black;
+    font-size: 30px;
+}
